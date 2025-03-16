@@ -3,6 +3,9 @@
 🔹 **[Master’s Student in Data Science at TU Dortmund](https://www.tu-dortmund.de/en/)** | **[B.Sc. in Computer Science from AIUB](https://www.aiub.edu/)**  
 🔹 **Passionate about Data Analysis, Machine Learning, Data Engineering, Cloud, and AI**  
 
+🔹 <a href="https://www.tu-dortmund.de/en/" target="_blank">Master’s Student in Data Science at TU Dortmund</a> |  
+🔹 <a href="https://www.aiub.edu/" target="_blank">B.Sc. in Computer Science from AIUB</a>  
+
 ## 🚀 About Me
 I am a data-driven problem solver with experience in banking operations, ERP systems, and smart home technologies. My expertise lies in leveraging Python, SQL, and statistical analysis to optimize workflows, automate processes, and extract actionable insights from data.
 
