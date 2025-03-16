@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Istiak Mahbub!
+# Hi, I'm Mohammad Istiak Mahbub
 
 🔹 **Master’s Student in Data Science at TU Dortmund**  
 🔹 **Working Student at Miele | Data Enthusiast**  
