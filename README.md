@@ -1,8 +1,5 @@
 # Hi, I'm Mohammad Istiak Mahbub
 
-🔹 **[Master’s Student in Data Science at TU Dortmund](https://www.tu-dortmund.de/en/)** | **[B.Sc. in Computer Science from AIUB](https://www.aiub.edu/)**
-🔹 **Passionate about Data Analysis, Machine Learning, Data Engineering, Cloud, and AI**
-
 ## 🚀 About Me
 I’m a data science student based in Dortmund, Germany, originally from Dhaka, Bangladesh.
 
