@@ -21,14 +21,6 @@ When I step away from the keyboard, you’ll likely find me with a book in hand.
 - **[BRAC Bank (Bangladesh)](https://www.bracbank.com/)** | Officer, Operations *(Dec 2018 – Nov 2021)*
 - **[Labaid (Bangladesh)](https://labaid.com.bd/)** | System Analyst *(Jan 2017 – Dec 2018)*
 
-## 💡 Skills & Expertise
-- **Programming & Scripting**: Python, R, SQL
-- **Databases**: MySQL, SQLite
-- **Data Visualization**: Matplotlib, Seaborn, Excel, Jupyter Notebook, PowerBI
-- **Data Preprocessing and Analysis**: Data Cleaning, Feature Engineering, Exploratory Data Analysis, Data Mining, Statistical Analysis
-- **Machine Learning**: Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, Dimensionality Reduction), Model Evaluation and Validation
-- **Web Development**: Web2py, HTML, CSS
-
 ## 📫 Connect with Me
 📧 **Email**: istiak.mahbub@outlook.com
 🔗 **LinkedIn**: [istiak-mahbub](https://www.linkedin.com/in/istiak-mahbub/)
