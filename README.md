@@ -1,7 +1,7 @@
 # Hi, I'm Mohammad Istiak Mahbub
 
 🔹 **[Master’s Student in Data Science at TU Dortmund](https://www.tu-dortmund.de/en/)** | **[B.Sc. in Computer Science from AIUB](https://www.aiub.edu/)**  
-🔹 **Passionate about Data Analysis, Machine Learning, Data Engineering, Cloud, and AI**
+🔹 **Python, ML, Data Engineering | Ex-Brac Bank, Ex-Miele | Building Data-driven Solutions | Open to Data Science Roles**
 
 ## 🚀 About Me
 I am a data-driven problem solver with experience in banking operations, ERP systems, and smart home technologies. My expertise lies in leveraging Python, SQL, and statistical analysis to optimize workflows, automate processes, and extract actionable insights from data.
