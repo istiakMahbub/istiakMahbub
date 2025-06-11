@@ -1,4 +1,5 @@
 # Hi, I'm Mohammad Istiak Mahbub
+Data Science MSc @ TU Dortmund | Python, ML, Data Engineering | Ex-Brac Bank, Ex-Miele | Building Data-driven Solutions | Open to Data Science Roles
 
 ## 🚀 About Me
 I’m a data science student based in Dortmund, Germany, originally from Dhaka, Bangladesh.
