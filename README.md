@@ -1,24 +1,45 @@
 # Hi, I'm Mohammad Istiak Mahbub
-Data Science MSc @ TU Dortmund | Python, ML, Data Engineering | Ex-Brac Bank, Ex-Miele | Building Data-driven Solutions | Open to Data Science Roles
 
-## 🚀 About Me
-I’m a data science student based in Dortmund, Germany, originally from Dhaka, Bangladesh.
+**Data Engineer in the making.** I build pipelines that turn messy sources into clean, trusted data. Automating security and compliance data | 2 yrs data automation at Miele | M.Sc. Data Science, TU Dortmund
 
-I am currently pursuing my Master’s in Data Science at TU Dortmund University. I expect to complete my degree by September 2026. I hold a Bachelor's degree in Computer Science & Engineering from American International University–Bangladesh. I’ve always been fascinated by how data drives decision-making — and today, I’m fortunate to be building a career around this passion.
+📍 Dortmund, Germany
 
-I bring cross-industry experience through prior roles in healthcare, banking, and manufacturing. I started my career in the healthcare sector at Labaid Group, where I contributed to an ERP implementation project — giving me first-hand exposure to large-scale system integrations and business process optimization. Since then, I have expanded my experience through roles in the banking and manufacturing domains, gaining practical knowledge in various solutions.
+## About me
 
-I’m currently seeking opportunities in data science, data engineering, or data analytics roles in Germany. My technical focus areas include building end-to-end data science solutions — from data extraction and processing (ETL pipelines) to model development and deployment — using Python, SQL, data visualization tools, and cloud platforms (currently gaining hands-on experience).
+Most data problems start before the model or the dashboard: sources that change shape, manual exports, and nobody sure which number is right. That's the part I like to fix, with pipelines that collect, clean and load data so the people downstream can trust it, and an auditor can too.
 
-Beyond coursework and projects, I enjoy improving my German, exploring Generative AI tools and experiment with how we can leverage them to build more effective data solutions.
+I'm finishing my M.Sc. in Data Science at TU Dortmund, with the thesis in 2027. Before that I did a B.Sc. in Computer Science & Engineering at American International University–Bangladesh. I'm also learning German (A1.2, and yes, it's still a work in progress).
 
-When I step away from the keyboard, you’ll likely find me with a book in hand. I’m drawn to stories and ideas that broaden my perspective — personal favorites include The Alchemist, The Compound Effect, and Sei Somoy. You can find more of my reading on my [Goodreads profile](https://www.goodreads.com/user/show/57002361-istiak-mahbub).
+**Next step:** a full-time data engineering role in Germany from summer 2027.
 
-## 💼 Experience
-- **[Miele (Germany)](https://www.miele.com/)** | Working Student *(Mar 2023 – Feb 2025)*
-- **[BRAC Bank (Bangladesh)](https://www.bracbank.com/)** | Officer, Operations *(Dec 2018 – Nov 2021)*
-- **[Labaid (Bangladesh)](https://labaid.com.bd/)** | System Analyst *(Jan 2017 – Dec 2018)*
+## What I've done so far
 
-## 📫 Connect with Me
-📧 **Email**: istiak.mahbub@outlook.com
-🔗 **LinkedIn**: [istiak-mahbub](https://www.linkedin.com/in/istiak-mahbub/)
+- **KPS AG** · Working Student, Information Security *(Sep 2026 – now)*
+  Data pipelines for an IT security team: collecting and processing external data sources, traceable for audits.
+- **[Miele](https://www.miele.com/)** · Working Student, Gütersloh *(Mar 2023 – Feb 2025)*
+  Python pipelines that moved development process documentation into a central database with versioning, plus a Web2Py process editor (deployed on IIS) that the teams used to maintain it. Figma prototypes and user feedback rounds for the editor's interface.
+- **[BRAC Bank](https://www.bracbank.com/)** · Officer, System Support and Service Operations *(Dec 2018 – Nov 2021)*
+  Kept core banking systems running 24/7: backups, archival and data validation during maintenance. Built an AMC tracker that alerted owners before maintenance contracts expired, and replaced a paper daily log with a shared digital one.
+- **[Labaid Group](https://labaid.com.bd/)** · Executive, HIS/ERP Implementation *(Jan 2017 – Dec 2018)*
+  Data mapping, cleaning and migration from legacy systems to a new hospital information and ERP system, plus dashboards and reports for operational and management users.
+- **PixelNet Technologies** · Web Designer Intern *(Oct – Dec 2016)*
+  Front-end work on responsive websites (HTML, CSS, JavaScript).
+
+## Projects
+
+### [Career Fit Check](https://github.com/istiakMahbub/career-fit-check)
+Scrapes live job postings, extracts the skills they ask for with an LLM, and scores a CV against them the way an ATS does: by keyword match. Turns out an ATS reads keywords, not skill levels.
+`Python` `FastAPI` `SQLite` `BeautifulSoup` `Selenium`
+
+## Tech I work with
+
+`Python` `SQL` `ETL` `Data Pipelines` `Database Design` `Data Migration` `Data Validation` `Data Quality` `Web Scraping` `FastAPI` `SQLite` `Git` `Web2py` `Figma`
+
+## Off the keyboard
+
+You'll likely find me with a book. Favourites include *The Alchemist*, *The Compound Effect* and *Sei Somoy*. More on my [Goodreads](https://www.goodreads.com/user/show/57002361-istiak-mahbub).
+
+## Connect
+
+📧 istiak.mahbub@outlook.com
+🔗 [linkedin.com/in/istiak-mahbub](https://www.linkedin.com/in/istiak-mahbub/)
